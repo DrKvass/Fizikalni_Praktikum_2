@@ -1,0 +1,12 @@
+1. Grafe digitaliziraj
+2. Grafiraj v gnuplot
+3. Izpelji funkcijo za fit
+4. Opravi fit
+5. Vse rezultate zabeleži direktno v latex datoteko in nikamor drugam ker si len
+
+
+1. Digitalize graphs
+2. Plot in gnuplot (or smth idc)
+3. Find the function to fit to
+4. Fit the function
+5. Save the fit data directly into the latex file and nowhere else because you're lazy
