@@ -1,4 +1,4 @@
-# Fizikalni_Praktikum_2
+Fizikalni_Praktikum_2
 Mona če to rabiš, pa jok
 
 Red - User input data
