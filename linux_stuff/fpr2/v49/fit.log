@@ -1,0 +1,201 @@
+
+
+*******************************************************************************
+Sun Mar 26 02:35:22 2023
+
+
+FIT:    data read from 'praznjenje.dat'
+        format = z
+        #datapoints = 64
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = 12*exp(-x/T)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   T            
+   0 4.8276042291e+03   0.00e+00  2.54e-01    1.000000e+00
+  36 1.6759967459e-01  -1.54e-03  2.54e-04    8.969003e-03
+
+After 36 iterations the fit converged.
+final sum of squares of residuals : 0.1676
+rel. change during last iteration : -1.54093e-08
+
+degrees of freedom    (FIT_NDF)                        : 63
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0515782
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00266031
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+T               = 0.008969         +/- 1.824e-05    (0.2034%)
+
+
+*******************************************************************************
+Sun Mar 26 02:44:54 2023
+
+
+FIT:    data read from 'polnjenje.dat'
+        format = z
+        #datapoints = 68
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = 3.16 * (1-exp(-x/T))
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   T            
+   0 1.1020715223e+02   0.00e+00  7.45e-01    1.000000e+00
+   6 3.7534213057e+00  -8.95e-03  7.45e-06    2.399135e-01
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.75342
+rel. change during last iteration : -8.94975e-08
+
+degrees of freedom    (FIT_NDF)                        : 67
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.236688
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0560212
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+T               = 0.239914         +/- 0.008057     (3.358%)
+
+
+*******************************************************************************
+Sun Mar 26 03:08:31 2023
+
+
+FIT:    data read from 'nihanje.dat'
+        format = z
+        #datapoints = 148
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = - I / (1.8*10*10*10 * 0.25/(1000000)) * exp(-Bx) * sin(1.8*1000*x)
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'I' is zero.
+
+
+*******************************************************************************
+Sun Mar 26 03:10:50 2023
+
+
+FIT:    data read from 'nihanje.dat'
+        format = z
+        #datapoints = 148
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = - I / (1.8*10*10*10 * 0.25/(1000000)) * exp(-B*x) * sin(1.8*1000*x)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   B             I            
+   0 3.5471114304e+08   0.00e+00  1.10e+03    1.000000e+00   1.000000e+00
+   9 2.9806856247e+05  -5.84e-02  1.10e-06    8.052083e+02   1.024364e-01
+
+After 9 iterations the fit converged.
+final sum of squares of residuals : 298069
+rel. change during last iteration : -5.83634e-07
+
+degrees of freedom    (FIT_NDF)                        : 146
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 45.1837
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2041.57
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+B               = 805.208          +/- 232.7        (28.89%)
+I               = 0.102436         +/- 0.02425      (23.68%)
+
+correlation matrix of the fit parameters:
+                B      I      
+B               1.000 
+I               0.788  1.000 
+
+
+*******************************************************************************
+Sun Mar 26 03:21:18 2023
+
+
+FIT:    data read from 'nihanje.dat'
+        format = z
+        #datapoints = 148
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = - I / (1.8*10*10*10 * 0.25/(1000000)) * exp(-B*x) * sin(1.8*1000*x)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   B             I            
+   0 3.9396565113e+05   0.00e+00  8.41e-04    8.052083e+02   3.703050e-06
+
+Current data point
+=========================
+#               = 23 out of 148
+x               = -298615        
+z               = -11.4454       
+
+Current set of parameters
+=========================
+B               = -298615        
+I               = 0.100978       
+
+BREAK: Undefined value during function evaluation
+
+*******************************************************************************
+Sun Mar 26 03:30:11 2023
+
+
+FIT:    data read from 'nihanje.dat'
+        format = z
+        #datapoints = 148
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = - I / (1.8*10*10*10 * 0.25/(1000000)) * exp(-B*x) * sin(1.8*1000*x)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   I            
+   0 1.6162223544e+06   0.00e+00  1.05e+02    1.009776e-01
+   3 3.6868699867e+05  -6.96e-08  1.05e-01    1.258431e-02
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 368687
+rel. change during last iteration : -6.95769e-13
+
+degrees of freedom    (FIT_NDF)                        : 147
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50.0807
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2508.07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+I               = 0.0125843        +/- 0.003963     (31.49%)
+
+
+*******************************************************************************
+Sun Mar 26 03:30:52 2023
+
+
+FIT:    data read from 'nihanje.dat'
+        format = z
+        #datapoints = 148
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = - I / (1.8*10*10*10 * 0.25/(1000000)) * exp(-56.2347188264058679706601466992*x) * sin(1.8*1000*x)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   I            
+   0 3.6868699867e+05   0.00e+00  1.31e+01    1.258431e-02
+   1 3.6868699867e+05   0.00e+00  1.31e+00    1.258431e-02
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 368687
+rel. change during last iteration : 0
+
+degrees of freedom    (FIT_NDF)                        : 147
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 50.0807
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2508.07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+I               = 0.0125843        +/- 0.003963     (31.49%)

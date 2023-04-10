@@ -1,0 +1,15 @@
+set fit quiet
+set terminal png size 1000, 1000 font "Times-New-Roman,26"
+set output 	"plot_15_ohm.png"
+set title 	"Resonančna krivulja pri 15 Ohmov"
+set xlabel 	"√(C/Cr)"
+set ylabel 	"U/Ui"
+set xrange 	[0.8:1.2]
+set xtics 	0.8,0.05,1.2	#start,incrament,max
+set yrange 	[0:6.5] 
+set ytics 	0,1,6	#start,incrament,max
+set grid
+set border lw 2
+set key top right
+
+plot '15_ohm.dat' u 1:2 lt 7 lc 2 lw 2 w p title "Podatki"

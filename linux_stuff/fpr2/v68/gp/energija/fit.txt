@@ -1,0 +1,33 @@
+*******************************************************************************
+Sun Apr  9 11:27:34 2023
+
+
+FIT:    data read from 'energija.dat'
+        format = z
+        x range restricted to [0.500000 : 0.900000]
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x + n
+fitted parameters initialized with current variable values
+
+   4 1.0159199095e-02  -2.82e-01  8.52e-05    3.948177e+00  -1.415465e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.0101592
+rel. change during last iteration : -2.81577e-06
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0581928
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0033864
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = 3.94818          +/- 0.2279       (5.773%)
+n               = -1.41547         +/- 0.1535       (10.84%)
+
+correlation matrix of the fit parameters:
+                k      n      
+k               1.000 
+n              -0.986  1.000 

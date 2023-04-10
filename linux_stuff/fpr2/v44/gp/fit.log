@@ -1,0 +1,468 @@
+
+
+*******************************************************************************
+Sun Apr  2 10:25:31 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = kx
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Sun Apr  2 10:25:44 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   k            
+   0 4.9928789641e+07   0.00e+00  1.76e+03    1.000000e+00
+   4 7.7828112995e-03  -3.38e-05  1.76e-01   -9.185869e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00778281
+rel. change during last iteration : -3.38294e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0227784
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000518854
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = -0.000918587     +/- 3.227e-06    (0.3513%)
+
+
+*******************************************************************************
+Sun Apr  2 10:26:12 2023
+
+
+FIT:    data read from '2_meritev.dat'
+        format = z
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   k            
+   0 1.6051728319e+02   0.00e+00  1.63e+00   -9.185869e-04
+   4 4.2791796679e-03  -8.11e-11  1.63e-03    8.643264e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00427918
+rel. change during last iteration : -8.10774e-16
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0168902
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000285279
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = 0.000864326      +/- 2.377e-06    (0.275%)
+
+
+*******************************************************************************
+Sun Apr  2 10:27:31 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = kx
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Sun Apr  2 10:27:55 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+   4 7.7828112995e-03  -3.38e-05  1.76e-01   -9.185869e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00778281
+rel. change during last iteration : -3.38294e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0227784
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000518854
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = -0.000918587     +/- 3.227e-06    (0.3513%)
+
+
+*******************************************************************************
+Sun Apr  2 10:28:13 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+   4 7.7828112995e-03  -3.38e-05  1.76e-01   -9.185869e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00778281
+rel. change during last iteration : -3.38294e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0227784
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000518854
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = -0.000918587     +/- 3.227e-06    (0.3513%)
+
+
+*******************************************************************************
+Sun Apr  2 10:29:09 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+   4 7.7828112995e-03  -3.38e-05  1.76e-01   -9.185869e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00778281
+rel. change during last iteration : -3.38294e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0227784
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000518854
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = -0.000918587     +/- 3.227e-06    (0.3513%)
+
+
+*******************************************************************************
+Sun Apr  2 10:29:53 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+   4 7.7828112995e-03  -3.38e-05  1.76e-01   -9.185869e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00778281
+rel. change during last iteration : -3.38294e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0227784
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000518854
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = -0.000918587     +/- 3.227e-06    (0.3513%)
+
+
+*******************************************************************************
+Sun Apr  2 10:30:49 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+   4 7.7828112995e-03  -3.38e-05  1.76e-01   -9.185869e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00778281
+rel. change during last iteration : -3.38294e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0227784
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000518854
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = -0.000918587     +/- 3.227e-06    (0.3513%)
+
+
+*******************************************************************************
+Sun Apr  2 10:31:24 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+   4 7.7828112995e-03  -3.38e-05  1.76e-01   -9.185869e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00778281
+rel. change during last iteration : -3.38294e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0227784
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000518854
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = -0.000918587     +/- 3.227e-06    (0.3513%)
+
+
+*******************************************************************************
+Sun Apr  2 10:32:07 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+   4 7.7828112995e-03  -3.38e-05  1.76e-01   -9.185869e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00778281
+rel. change during last iteration : -3.38294e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0227784
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000518854
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = -0.000918587     +/- 3.227e-06    (0.3513%)
+
+
+*******************************************************************************
+Sun Apr  2 10:33:14 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+   4 7.7828112995e-03  -3.38e-05  1.76e-01   -9.185869e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00778281
+rel. change during last iteration : -3.38294e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0227784
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000518854
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = -0.000918587     +/- 3.227e-06    (0.3513%)
+
+
+*******************************************************************************
+Sun Apr  2 10:33:31 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+   4 7.7828112995e-03  -3.38e-05  1.76e-01   -9.185869e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00778281
+rel. change during last iteration : -3.38294e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0227784
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000518854
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = -0.000918587     +/- 3.227e-06    (0.3513%)
+
+
+*******************************************************************************
+Sun Apr  2 10:34:01 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+   4 7.7828112995e-03  -3.38e-05  1.76e-01   -9.185869e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00778281
+rel. change during last iteration : -3.38294e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0227784
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000518854
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = -0.000918587     +/- 3.227e-06    (0.3513%)
+
+
+*******************************************************************************
+Sun Apr  2 10:35:19 2023
+
+
+FIT:    data read from '2_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+   4 4.2791796679e-03  -6.21e-05  1.78e-01    8.643264e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00427918
+rel. change during last iteration : -6.21174e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0168902
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000285279
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = 0.000864326      +/- 2.377e-06    (0.275%)
+
+
+*******************************************************************************
+Sun Apr  2 10:35:54 2023
+
+
+FIT:    data read from '1_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+   4 7.7828112995e-03  -3.38e-05  1.76e-01   -9.185869e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00778281
+rel. change during last iteration : -3.38294e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0227784
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000518854
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = -0.000918587     +/- 3.227e-06    (0.3513%)
+
+
+*******************************************************************************
+Sun Apr  2 10:36:10 2023
+
+
+FIT:    data read from '2_meritev.dat'
+        format = z
+        x range restricted to [0.00000 : 3100.00]
+        #datapoints = 16
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = k*x
+fitted parameters initialized with current variable values
+
+   4 4.2791796679e-03  -6.21e-05  1.78e-01    8.643264e-04
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 0.00427918
+rel. change during last iteration : -6.21174e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0168902
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000285279
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = 0.000864326      +/- 2.377e-06    (0.275%)
