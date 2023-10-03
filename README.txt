@@ -1,7 +1,6 @@
-Fizikalni_Praktikum_2
-Mona če to rabiš, pa jok
+Fizikalni Praktikum 2
 
-Just cause i dont want to shift + del everything lol
+Just cause i don't want to shift + del everything lol
 
 Red - User input data
 Yellow - Processing data for the spreadsheet
